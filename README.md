@@ -25,5 +25,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/tip-calculator-splitter-gdNaUIpvy-)
+- Live Site URL: [here](https://hummingcoder.github.io/SPLITTER/)
